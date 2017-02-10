@@ -26,6 +26,7 @@
 <html lang="nl">
 <head>
 	<meta charset="UTF-8">
+    <meta http-equiv="refresh" content="1">
 	<title>Hoe laat is het?</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="icon" type="image/png" href="img/clock.png"/>
